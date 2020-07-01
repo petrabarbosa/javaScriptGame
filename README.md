@@ -1,2 +1,2 @@
 # javaScriptGame
-my first javaScript game (incomplete)
+my first javaScript game with p5.js (incomplete)
